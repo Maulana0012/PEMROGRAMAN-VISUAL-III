@@ -16,8 +16,8 @@ class MyWindow(QMainWindow):
         cwa.moveCenter(cwc)
         self.move(cwa.topLeft())
         self.setFixedSize(500,500) # agar tidak bisa di-resizel icon maximize juga akan otomatis hilang
-        # self.setiwindowFlag(QtCore.Qt.FramelessWindowHint)
-        # self.setWindowFlag(QtCore.Qt.WindowMinimizeButtonHint, False)
+        self.setiwindowFlag(QtCore.Qt.FramelessWindowHint)
+        self.setWindowFlag(QtCore.Qt.WindowMinimizeButtonHint, False)
 
 app = QApplication([])
 window = MyWindow()

@@ -1,22 +1,22 @@
-def iterateOverList (yourList: list):
-    for iterateList in range(len(yourList)):
-        print(yourList[iterateList], end=", ")
-    print()
-
-listOfNumber = [20,80,75,60,50,85,45,90]
-listOfNumber.sort()
-print(listOfNumber)
-
-
-kelas1 = []
-kelas2 = []
-kelas3 = []
-kelas4 = []
-kelas5 = []
-kelas6 = []
-kelas7 = []
-kelas8 = []
-tempt = 2.875
+# def iterateOverList (yourList: list):
+#     for iterateList in range(len(yourList)):
+#         print(yourList[iterateList], end=", ")
+#     print()
+#
+# listOfNumber = [20,80,75,60,50,85,45,90]
+# listOfNumber.sort()
+# print(listOfNumber)
+#
+#
+# kelas1 = []
+# kelas2 = []
+# kelas3 = []
+# kelas4 = []
+# kelas5 = []
+# kelas6 = []
+# kelas7 = []
+# kelas8 = []
+# tempt = 2.875
 # for index in range(8):
 #     print(f"kelas {index + 1}: {tempt}")
 #     tempt += 2.875
@@ -57,3 +57,7 @@ tempt = 2.875
 #         if loopClass == 5 - 1:
 #             print(f"Nilai tengah = {variablePlaceHolder}")
 # # print(max(listOfNumber))
+
+list1 = []
+list1.append(123)
+print(list1)

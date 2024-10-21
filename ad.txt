@@ -1,0 +1,75 @@
+product: Cleo
+
+scene 1: Frustration in the Study Room
+
+    Visuals: A cluttered desk with books, papers, and a laptop. A student (name) is hunched over the laptop, frowning, surrounded by a lot of pepper, book and empty soft drink all over the place.
+    Camera Effect: Close-up shot of Alex’s frustrated face, with a shallow depth of field to focus on the expression while blurring the background.
+
+text:
+main: lah kok page note found
+
+scene 2: The Homework Challenge
+
+    Visuals: Screen close-up showing error codes on the laptop. student(name) eyes dart back and forth between the code and a textbook (or phone), looking increasingly overwhelmed.
+    Camera Effect: Split-screen showing the code on one side and Alex's stressed reaction on the other, using a jittery effect to emphasize frustration.
+
+text:
+main: ah ini errornya dimana, sudah mengikuti insttuksi dokumen masih saja error.
+
+scene 3: seeking for help
+
+Visuals: student(name) lean on his chair, phone in hand, surrounded by textbooks and notes. He have no other choice besides seeking for help from his friend, but unfortunately his friend didn't help that much (only giving an unclear clue).
+
+
+Camera Effect: Over-the-shoulder shot of Alex's phone screen as he selects a contact—his friend RYAN.
+
+text:
+main: sub-main, info tugas mu gimana?
+sub-main: aman, sudah selesai pada hari ditugaskan.
+main: hah? kok aku dapat error page not found? juga kesal aku errornya enggak keliatan
+sub-main: paling ada kesalahan dalam mengikuti proses dokumennya.
+main: eh
+sub-main: cek aja tuh, paling a kesalahan pengetikan.
+sub-main: call ended
+
+
+scene 4: an unexpected family member
+    Visuals: student(name)'s family member brought a bottle of water to student(name)'s room and tell him to take it lightly and put the bottle on the table
+
+fam main: jangan dibawa pusing, nih minum biar lebih fokus
+main: kenapa botolnya basah?
+fam main: biar keliatan seger aja
+
+    Camera Effect: camera focus on the bottle, with bokeh filter. while  in the background, student(name) and student(name)'s family member having a small talk
+
+scene 5: The Turning Point
+
+    Visuals: Alex takes a deep breath, reaches for a bottle of "Le Water" on the desk, and opens it. The label gleams under the light.
+    Camera Effect: Slow-motion shot of student(name) taking a sip of "Le Water" with camera over-the-face, with bright background mixed with blury (bokeh) filter.
+
+scene 6: Code Success
+
+    Visuals: The screen shows code running successfully. student(name) smiles and nods, feeling accomplished. The desk is now organized.
+    Camera Effect: Wide-angle shot capturing Alex's triumphant pose, with a subtle zoom-in on the "Le Water" bottle in the foreground.
+
+text:
+main: lah ternyata salah di penamaan nama folder ku
+
+scene 7: Call to Action
+
+    Visuals: The camera shifts to a clean, stylish shot of the "Cleo" bottle with the tagline “Time to be smart” displayed prominently.
+    Camera Effect: A clear shot of the bottle and student(name) finally relaxed in the background with blury filter, gradually fading into the logo with a soft glow effect.
+
+
+text:
+narator: kesal? haus? pusing? dan segala permasalahan hidup? minum Cleo aja, semua masalh hilang semua
+Cleo, "time to be smart"
+
+=========================================
+camera effect will be used:
+
+    Close-ups: Use close-up shots to capture emotions and expressions, emphasizing frustration and relief.
+    Slow Motion: Slow-motion effects for moments of clarity and refreshment to enhance the transformative feeling.
+    Split-screen: To depict the contrast between the struggle and the moment of clarity.
+    Soft Focus: Apply soft focus when showcasing the refreshing effect of "Le Water" to create an inviting and uplifting atmosphere.
+    Dynamic Zooms: Use subtle zooms to draw attention to key moments, like the coding success and the product.
