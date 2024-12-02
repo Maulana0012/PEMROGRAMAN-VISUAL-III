@@ -295,3 +295,4 @@ class Ui_Form_Input(object):
         self.showDataUi = Ui_Form_ShowData()
         self.showDataUi.setupUi(self.showDataWindow)
         self.showDataWindow.show()
+
