@@ -95,9 +95,30 @@
     </property>
     <layout class="QHBoxLayout" name="horizontalLayout1">
      <item>
+      <widget class="QPushButton" name="pushButtonDelete">
+       <property name="text">
+        <string>Insert</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButtonUpdate">
+       <property name="text">
+        <string>Update</string>
+       </property>
+      </widget>
+     </item>
+     <item>
       <widget class="QPushButton" name="pushButtonInsert">
        <property name="text">
-        <string>INSERT</string>
+        <string>Delete</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButtonLoad">
+       <property name="text">
+        <string>Load</string>
        </property>
       </widget>
      </item>
@@ -114,9 +135,12 @@
     </property>
     <layout class="QHBoxLayout" name="horizontalLayout2">
      <item>
-      <widget class="QPushButton" name="pushButtonLoad">
+      <widget class="QLineEdit" name="line3"/>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButtonSearch">
        <property name="text">
-        <string>LOAD DATA</string>
+        <string>PushButton</string>
        </property>
       </widget>
      </item>

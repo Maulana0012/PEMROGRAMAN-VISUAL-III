@@ -10,7 +10,7 @@ database = mysql.connector.connect(
 
 myCursor = database.cursor()
 sqlSelect = ("DELETE FROM kategori where id = %s")
-id = ("2",)
+id = ("2")
 myCursor.execute(sqlSelect, id)
 
 database.commit()
