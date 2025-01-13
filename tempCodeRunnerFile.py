@@ -1,1 +1,1 @@
-idkat
+QTableWidgetItem
